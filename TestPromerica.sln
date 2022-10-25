@@ -5,9 +5,19 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pregunta1", "Pregunta1", "{D2F07DBE-6653-40FA-ACE4-5C7EB4A4B983}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pregunta2", "Pregunta2", "{1BF6046A-E412-48A9-9A77-00EE0B580655}"
+	ProjectSection(SolutionItems) = preProject
+		Pregunta 2\Pregunta2.xml = Pregunta 2\Pregunta2.xml
+	EndProjectSection
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pregunta1", "Pregunta 1\Pregunta 1\Pregunta1.csproj", "{7AC11017-07F6-45AA-A188-8B0AA52B87FF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pregunta2", "Pregunta2", "{1BF6046A-E412-48A9-9A77-00EE0B580655}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pregunta3", "Pregunta3", "{7C38C818-DF7E-4D45-AC0B-AB08DACEF64E}"
+	ProjectSection(SolutionItems) = preProject
+		Pregunta 3\Pregunta3.sql = Pregunta 3\Pregunta3.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pregunta4", "Pregunta4", "{1D6E2B96-1C2B-464A-8263-E32FC655B5B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
