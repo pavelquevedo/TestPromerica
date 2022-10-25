@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<TarjetaInfo>
+  <NombreSistema>CardExchange</NombreSistema>
+  <Localizacion>14.561283, -90.534214</Localizacion>
+  <NoTarjeta>4512986584563221</NoTarjeta>
+  <Cliente>
+    <ID>65948</ID>
+    <Nombres>Pavel Iván</Nombres>
+    <Apellidos>Quevedo Solares</Apellidos>
+    <Telefono>1234567890</Telefono>
+    <Correo>pavelquevedo@xyz.com</Correo>
+    <Direccion>
+      <Departamento>Guatemala</Departamento>
+      <Pais>Guatemala</Pais>
+      <Municipio>Ciudad de Guatemala</Municipio>
+      <CodigoPostal>01021</CodigoPostal>
+    </Direccion>
+  </Cliente>
+</TarjetaInfo>
